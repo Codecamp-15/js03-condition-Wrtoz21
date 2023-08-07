@@ -4,3 +4,4 @@
 if (" ") alert("Yes");
 else alert("Nooo");
 ```
+ได้ Yes เพราะมี string เป็น space""
